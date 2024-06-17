@@ -11,6 +11,6 @@ Hally: similar to the Newton fractals but deploying a slightly different method 
 
 Exponential: a curious tweak of classic Newton-Raphson that appears to behave very differently.
 
-The below is an example coming from Halley's method coming from the polynomial $z^4-z^2$.
+The below is an example coming from Halley's method made using the polynomial $z^4-z^2$.
 
 ![Halley Fractal](https://github.com/MathmoBen/Fractals/blob/main/Hally.png)
