@@ -13,6 +13,8 @@ Exponential: a curious tweak of classic Newton-Raphson that appears to behave ve
 
 Tricorn: a variant of the Mandelbrot set made using a non-analytic function.
 
+Burning Ship: another variant of the Mandelbrot set made using a non-analytic function.
+
 The below is an example coming from Halley's method made using the polynomial $z^4-z^2$.
 
 ![Halley Fractal](https://github.com/MathmoBen/Fractals/blob/main/Hally.png)
